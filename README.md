@@ -1,4 +1,4 @@
-# Rupeek Maid Booking — SDE-3 Machine Coding
+# Maid Booking System
 
 Java 17 / Spring Boot 3.4.2 backend for maid discovery, booking, payment and cancellation.
 
